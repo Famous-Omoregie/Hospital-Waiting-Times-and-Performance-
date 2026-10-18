@@ -46,7 +46,6 @@ The dataset contains patient-level records and variables relating to demographic
 - The analysis identifies patterns and relationships but does not establish causation.
 
 ## Author
-Famous Omoregie
 
 **Famous Blessed Omoregie**
 
