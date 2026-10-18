@@ -6,6 +6,15 @@ This project presents an interactive hospital performance analytics dashboard de
 
 The project demonstrates how data visualisation, data modelling and DAX measures can be used to explore healthcare service performance and support evidence-informed decision-making.
 
+## 🎥 Dashboard Demonstration
+
+Watch the Hospital Waiting Times & Performance Analytics dashboard in action.
+
+https://github.com/user-attachments/assets/d41e2527-3f97-4ac6-a9e3-431dfb7515f6
+- **Power BI Dashboard:** `NHS hospital wait_time.pbix`
+- **Video Demonstration:** `Untitled offline project (3).mp4`
+
+
 ## Project Objectives
 
 - Analyse patient waiting times across hospital departments.
@@ -51,10 +60,3 @@ The dataset contains patient-level records and variables relating to demographic
 
 Public Health | Health Inequalities | Data Analytics | Power BI | SQL
 
-## 🎥 Dashboard Demonstration
-
-Watch the Hospital Waiting Times & Performance Analytics dashboard in action.
-
-https://github.com/user-attachments/assets/d41e2527-3f97-4ac6-a9e3-431dfb7515f6
-- **Power BI Dashboard:** `NHS hospital wait_time.pbix`
-- **Video Demonstration:** `Untitled offline project (3).mp4`
