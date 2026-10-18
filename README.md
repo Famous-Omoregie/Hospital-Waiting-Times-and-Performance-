@@ -53,15 +53,13 @@ Public Health | Health Inequalities | Data Analytics | Power BI | SQL
 
 ---
 
-## Dashboard Demonstration
+## 🎥 Dashboard Demonstration
 
-Watch the video below to see the Hospital Waiting Times & Performance Analytics dashboard in action.
+Watch the video demonstration of the Hospital Waiting Times & Performance Analytics dashboard.
 
-[Watch the Dashboard Demonstration](./Untitled%20offline%20project%20%283%29.mp4)
+[▶️ Watch the dashboard demo](./Untitled%20offline%20project%20%283%29.mp4)
 
----
-
-## Project Files
+## 📁 Project Files
 
 - **Power BI Dashboard:** `NHS hospital wait_time.pbix`
-- **Dashboard Demonstration:** `Untitled offline project (3).mp4`
+- **Video Demonstration:** `Untitled offline project (3).mp4`
