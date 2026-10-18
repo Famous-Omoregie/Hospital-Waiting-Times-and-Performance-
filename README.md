@@ -51,15 +51,10 @@ The dataset contains patient-level records and variables relating to demographic
 
 Public Health | Health Inequalities | Data Analytics | Power BI | SQL
 
----
-
 ## 🎥 Dashboard Demonstration
 
-Watch the video demonstration of the Hospital Waiting Times & Performance Analytics dashboard.
+Watch the Hospital Waiting Times & Performance Analytics dashboard in action.
 
-[▶️ Watch the dashboard demo](./Untitled%20offline%20project%20%283%29.mp4)
-
-## 📁 Project Files
-
+https://github.com/user-attachments/assets/d41e2527-3f97-4ac6-a9e3-431dfb7515f6
 - **Power BI Dashboard:** `NHS hospital wait_time.pbix`
 - **Video Demonstration:** `Untitled offline project (3).mp4`
