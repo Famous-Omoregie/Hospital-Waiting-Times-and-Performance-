@@ -50,3 +50,18 @@ The dataset contains patient-level records and variables relating to demographic
 **Famous Blessed Omoregie**
 
 Public Health | Health Inequalities | Data Analytics | Power BI | SQL
+
+---
+
+## Dashboard Demonstration
+
+Watch the video below to see the Hospital Waiting Times & Performance Analytics dashboard in action.
+
+[Watch the Dashboard Demonstration](./Untitled%20offline%20project%20%283%29.mp4)
+
+---
+
+## Project Files
+
+- **Power BI Dashboard:** `NHS hospital wait_time.pbix`
+- **Dashboard Demonstration:** `Untitled offline project (3).mp4`
