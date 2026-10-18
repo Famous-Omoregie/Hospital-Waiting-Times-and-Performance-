@@ -10,9 +10,9 @@ The project demonstrates how data visualisation, data modelling and DAX measures
 
 Watch the Hospital Waiting Times & Performance Analytics dashboard in action.
 
-https://github.com/user-attachments/assets/d41e2527-3f97-4ac6-a9e3-431dfb7515f6
+https://github.com/user-attachments/assets/58330387-f851-4ad1-a373-0c735047702b
 - **Power BI Dashboard:** `NHS hospital wait_time.pbix`
-- **Video Demonstration:** `Untitled offline project (3).mp4`
+
 
 
 ## Project Objectives
